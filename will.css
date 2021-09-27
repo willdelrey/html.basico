@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(126, 77, 77);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+    background-size:unset;
+    text-align: center;
+    font-family: 'bebas neue' ;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.titulo{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+.titulomenor{
+  font-family: -apple-system;
+
+}
+#p1{
+background-color: rgb(236, 170, 95);
+   color: rgb(8, 6, 6);
+   margin-left: 20%;
+   margin-right: 20%;
+   border-radius: 50px;
+   font-size: unset;
+}
+#p2{
+    background-color: rgb(197, 209, 84);
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 50px;
+    font-size: unset;
+}
+#p3{
+    background-color: rgb(108, 211, 82);
+    padding-top: 20px;
+}
+#p4{
+    background-color: rgb(138, 172, 201);
+}
+#p5{
+    background-color: rgb(208, 123, 235);
+}
+#p6{
+    background-color: rgb(194, 99, 162);
+    border-radius: 50px;
+}
+.links{
+    text-decoration: none;
+    color: black;
+}
+.links:visited{
+    color: rgb(61, 59, 63);
+}
